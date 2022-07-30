@@ -1,1 +1,4 @@
 # NAYAN-
+
+
+cd nayanpja
